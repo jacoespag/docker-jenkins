@@ -1,4 +1,4 @@
-## Construct a docker for Windows image that host the Jenkins automation server
+## Construct a docker for Windows image to host the Jenkins automation server
 
 See https://jenkins.io for more info on Jenkins  
 Use the dockerfile with Docker http://www.docker.io
