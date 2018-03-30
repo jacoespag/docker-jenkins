@@ -1,0 +1,3 @@
+@echo off
+echo Building the Jenkins container, this may take a while...
+docker build -t jenkins .
