@@ -24,4 +24,4 @@ Then navigate to ```http://localhost:[your port here]``` and complete the Jenkin
 
 For more information see https://blogs.technet.microsoft.com/networking/2017/11/06/available-to-windows-10-insiders-today-access-to-published-container-ports-via-localhost127-0-0-1/
 
-As part of the first run, you'll be prompted to unlock Jenkins using the temporary password stored in C:\Program Files (x86)\Jenkins\secrets\initialAdminPassword on the container's drive.
+As part of the first run, you'll be prompted to unlock Jenkins using the temporary password stored in ```C:\Program Files (x86)\Jenkins\secrets\initialAdminPassword``` on the container's drive.
